@@ -10,10 +10,10 @@ The main dataset used in this project is Life Expectancy Data, which contains co
 
 ```text
 DM4Health/
-├── iteration2/
-├── I3.py
-├── I4_BDAS_Notebook.ipynb
-└── Life Expectancy Data.csv
+├── iteration2/                          # Files related to Iteration 2 (SPSS analysis)
+├── I3.py                               # Python-based data mining and analysis
+├── I4_BDAS_Notebook.ipynb              # PySpark-based analysis (Big Data approach)
+└── Life Expectancy Data.csv            # Health and life expectancy dataset
 ```
 
 
