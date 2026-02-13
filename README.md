@@ -8,11 +8,14 @@ The main dataset used in this project is Life Expectancy Data, which contains co
 
 ## Project Structure
 
+```text
 DM4Health/
 ├── iteration2/
 ├── I3.py
 ├── I4_BDAS_Notebook.ipynb
 └── Life Expectancy Data.csv
+```
+
 
 ## Analysis Approaches
 
